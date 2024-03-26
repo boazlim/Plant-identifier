@@ -1,0 +1,1 @@
+ C:\\Users\\bosli\\Documents\\App\ Development\\plant-reco\\starter\\.dart_tool\\flutter_build\\bdcde6c595d987e826084fd2cbd4ca67\\native_assets.yaml: 
